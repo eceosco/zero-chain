@@ -1,0 +1,12 @@
+{
+  "name": "zero-chain",
+  "version": "1.0.0",
+  "description": "Blockchain that only needs internet · Fair launch 21.11.2025",
+  "main": "node.js",
+  "bin": {
+    "zero-chain": "./node.js"
+  },
+  "keywords": ["blockchain", "dag", "fair-launch", "no-mining"],
+  "author": "eceosco",
+  "license": "MIT"
+}
